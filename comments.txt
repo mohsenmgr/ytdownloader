@@ -1,0 +1,9 @@
+#import pytube
+# url = 'https://www.youtube.com/watch?v=kMcd_QwRLMk&list=PLk8VC3ZVHVh_2CcYfzMaaS49zWoVk8L3c&index=5'
+
+#youtube = pytube.YouTube(url)
+#video = youtube.streams.get_audio_only()
+#video.download('C:/Users/Mohsen/Downloads/yt-playlist-master')
+#print('done')
+
+#playlist.download_all()
